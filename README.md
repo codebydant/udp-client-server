@@ -49,7 +49,7 @@ cmake ../ -G "MinGW Makefiles"
 make
 ```
 
-# How to run program
+# How to run program:
 Open two command lines and:
 
 1. for listener file.
